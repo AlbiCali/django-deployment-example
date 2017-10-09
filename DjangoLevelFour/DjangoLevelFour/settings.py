@@ -29,7 +29,7 @@ SECRET_KEY = 'f6bc274c-5ef4-48d1-aeaf-f980440a5846'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['albicali.pythonanywhere.com']
 
 
 # Application definition
